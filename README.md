@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Aamir
+- 👀 I’m interested in frontend web development and coding...
+- 🌱 I’m currently learning JavaScript and React...
+
+
+
